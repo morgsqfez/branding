@@ -1,45 +1,44 @@
 # Lumx Branding 💜
 
-Esse é o nosso guia de identidade da marca. Todos os documentos aqui mostram a maneira correta de como expressamos a marca Lumx!
+* Esse é o nosso guia de identidade da marca.
+* Todos os documentos aqui mostram a maneira correta de como expressamos a marca Lumx!
 
-## Logo
+# Logo
+### Padrão
 
-### ❌ Não faça
-- Não rotacione
-- Não mude a construção
-- Não adicione novas informações
-- Não use outras cores
-- Não use outline ou sombras
+<p align="left">
+<img src="https://uploaddeimagens.com.br/images/004/729/622/original/Logo_01_copiar.png?1706822699" width="612" height="154"/>
+</p>
+
+### Invertida
+<p align="left">
+<img src="https://i.ibb.co/Kr7VSgV/Logo-01-copiar-white.webp" width="612" height="154"/>
+</p>
+
+### Variações cromáticas
+<p align="left">
+<img src="https://i.ibb.co/XbHF0by/Logo-02-icon.png"/> <img src="https://i.ibb.co/GvZQ02R/Logo-02-icon-black.png"/> <img src="https://i.ibb.co/sVwxPx8/Logo-02-icon-purple.png"/> <img src="https://i.ibb.co/1nPDJ9h/icon-copiar-2-white.png"/>
+</p> 
+
+> [!WARNING]  
+>* Não rotacione.
+>* Não mude a construção.
+>* Não adicione novas informações.
+>* Não use outras cores.
+>* Não use outline ou sombras.
+
 
 ## Cores
-![#401688](https://via.placeholder.com/15/464099/464099.png) Roxo 1: `#401688`
 
-![6E05FF](https://via.placeholder.com/15/665EE0/665EE0.png) Roxo 2: `#6E05FF`
+![#401688](https://i.ibb.co/cCvWVXn/roxo-01.png) Roxo 1: `#401688`
 
-![#00B6FF](https://via.placeholder.com/15/141414/141414.png) Azul 1: `#00B6FF`
+![6E05FF](https://i.ibb.co/GQnzZqJ/roxo-02.png) Roxo 2: `#6E05FF` 
 
-![#00FFED](https://via.placeholder.com/15/1F1F1F/1F1F1F.png) Azul 2: `#00FFED`
+![#00B6FF](https://i.ibb.co/h23p2KB/azul-01.png) Azul 1: `#00B6FF`
 
-![#1D1D21](https://via.placeholder.com/15/282828/282828.png) Cinza: `#1D1D21`
+![#00FFED](https://i.ibb.co/Ws2HjRf/azul-02.png) Azul 2: `#00FFED`
 
-![09090B](https://via.placeholder.com/15/414042/414042.png) Preto: `09090B`
+![#1D1D21](https://i.ibb.co/47YYsbB/cinza.png) Cinza: `#1D1D21`
 
+![09090B](https://i.ibb.co/h71GsRp/preto.png) Preto: `09090B`
 
-## Logo
-
-### Colorful
-<img src="logo/colorful/black.png" width="15%" height="15%">  <img src="logo/colorful/white.png" width="15%" height="15%">  <img src="logo/colorful/black_with_glasses.png" width="15%" height="15%">  <img src="logo/colorful/white_with_glasses.png" width="15%" height="15%">
-
-### All Black
-<img src="logo/all_black/all_black.png" width="15%" height="15%">  <img src="logo/all_black/all_black_with_glasses.png" width="15%" height="15%">
-
-### All White
-<img src="logo/all_white/all_white.png" width="15%" height="15%">  <img src="logo/all_white/all_white_with_glasses.png" width="15%" height="15%">
-
-## Brand
-
-### Plugue The Pug
-<img src="brand/plugue.png" width="15%" height="15%">
-
-### Plugue: The Icon
-<img src="brand/plugue_the_icon.png" width="15%" height="15%">
