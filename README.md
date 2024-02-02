@@ -27,7 +27,7 @@
 >* Não use outras cores.
 >* Não use outline ou sombras.
 
-[Logos Vetorizada/.PNG](https://github.com/Lumx-Protocol/branding/tree/e5002e757c15f83409dd58ac4d7fe28c19bfd75c/logotipo)
+[Logo Vetorizada/.PNG](https://github.com/Lumx-Protocol/branding/tree/e5002e757c15f83409dd58ac4d7fe28c19bfd75c/logotipo)
 
 
 
