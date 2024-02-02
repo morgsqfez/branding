@@ -43,7 +43,7 @@
 
 ![#1D1D21](https://i.ibb.co/47YYsbB/cinza.png) Cinza: `#1D1D21`
 
-![09090B](https://i.ibb.co/h71GsRp/preto.png) Preto: `09090B`
+![09090B](https://i.ibb.co/h71GsRp/preto.png) Preto: `#09090B`
 
 ## Tipografia
 ### Títulos
