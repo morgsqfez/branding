@@ -1,7 +1,7 @@
 # Lumx Branding 💜
 
-* Esse é o nosso guia de identidade da marca.
-* Todos os documentos aqui mostram a maneira correta de como expressamos a marca Lumx!
+* Esse é o nosso guia de **identidade da marca.**
+* Todos os documentos aqui mostram a maneira correta de como expressamos a marca **Lumx!**
 
 # Logo
 ### Padrão
@@ -27,6 +27,9 @@
 >* Não use outras cores.
 >* Não use outline ou sombras.
 
+[Logos Vetorizada/.PNG](https://github.com/Lumx-Protocol/branding/tree/e5002e757c15f83409dd58ac4d7fe28c19bfd75c/logotipo)
+
+
 
 ## Cores
 
@@ -41,4 +44,38 @@
 ![#1D1D21](https://i.ibb.co/47YYsbB/cinza.png) Cinza: `#1D1D21`
 
 ![09090B](https://i.ibb.co/h71GsRp/preto.png) Preto: `09090B`
+
+## Tipografia
+### Títulos
+A **Aeonik** é a nossa fonte principal e a 
+utilizamos em todos os contextos 
+possíveis que necessitamos de 
+destaque. 
+
+<p align="left">
+<img src="https://i.ibb.co/FbB8N4j/titulo.webp" width="612" height="334"/>
+</p>
+
+### Parágrafos
+Quando se trata de parágrafos, textos 
+contínuos ou áreas que requerem 
+tamanhos de fonte menores e menos 
+proeminentes, nossa marca também 
+emprega os pesos da **Inter**, variando do 
+Light ao SemiBold.
+
+<p align="left">
+<img src="https://i.ibb.co/fdWSgmQ/paragrafo.webp/" width="612" height="334"/>
+</p>
+
+[Arquivos das Fontes](https://github.com/Lumx-Protocol/branding/tree/c95e30e2a38403e1d9de6da38b5949df37ab19eb/tipografia_fonts)
+
+## Nossos Produtos
+
+| Carteiras | Contratos Inteligentes | DID | Pagamentos | Recompensas |
+| :--------: | :--------: | :--------: | :--------: | :--------: |
+| <img src="/icones_produtos/png/carteiras.png" width="50" height="50"/> | <img src="/icones_produtos/png/contratos_inteligentes.png" width="50" height="50"/> | <img src="/icones_produtos/png/did.png" width="50" height="50"/> | <img src="/icones_produtos/png/pagamentos.png" width="50" height="50"/> |   <img src="/icones_produtos/png/recompensas.png" width="50" height="50"/> |
+| Criação de carteiras de maneira simplificada e segura | Criação e implementação simplificada de contratos inteligentes | Compartilhamento e verificação de dados | Compra de ativos digitais via PIX e cartão de crédito | Vantagens desbloqueadas por meio de um ativo digital |
+
+[ícones dos Produtos Vetorizados e .PNG](https://github.com/Lumx-Protocol/branding/tree/c8ae0a4e08fd843fbbb6b73b30a0931689aafc63/icones_produtos)
 
