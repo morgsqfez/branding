@@ -72,10 +72,10 @@ Light ao SemiBold.
 
 ## Nossos Produtos
 
-| Carteiras | Contratos Inteligentes | DID | Pagamentos | Recompensas |
-| :--------: | :--------: | :--------: | :--------: | :--------: |
-| <img src="/icones_produtos/png/carteiras.png" width="50" height="50"/> | <img src="/icones_produtos/png/contratos_inteligentes.png" width="50" height="50"/> | <img src="/icones_produtos/png/did.png" width="50" height="50"/> | <img src="/icones_produtos/png/pagamentos.png" width="50" height="50"/> |   <img src="/icones_produtos/png/recompensas.png" width="50" height="50"/> |
-| Criação de carteiras de maneira simplificada e segura | Criação e implementação simplificada de contratos inteligentes | Compartilhamento e verificação de dados | Compra de ativos digitais via PIX e cartão de crédito | Vantagens desbloqueadas por meio de um ativo digital |
+| Carteiras | Contratos Inteligentes | DID | Pagamentos |
+| :--------: | :--------: | :--------: | :--------: |
+| <img src="/icones_produtos/png/carteiras.png" width="50" height="50"/> | <img src="/icones_produtos/png/contratos_inteligentes.png" width="50" height="50"/> | <img src="/icones_produtos/png/did.png" width="50" height="50"/> | <img src="/icones_produtos/png/pagamentos.png" width="50" height="50"/> |
+| Criação de carteiras de maneira simplificada e segura | Criação e implementação simplificada de contratos inteligentes | Compartilhamento e verificação de dados | Compra de ativos digitais via PIX e cartão de crédito |
 
 [ícones dos Produtos Vetorizados e .PNG](https://github.com/Lumx-Protocol/branding/tree/c8ae0a4e08fd843fbbb6b73b30a0931689aafc63/icones_produtos)
 
